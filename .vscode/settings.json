@@ -1,0 +1,5 @@
+{
+    "RT-Thread Smart.Program": "2048.elf",
+    "RT-Thread Smart.Target Path": "/bin/",
+    "RT-Thread Smart.SDK ROOT": "../.."
+}
